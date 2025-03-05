@@ -16,11 +16,11 @@ To be able to fully use the tools developed for the ETD, one needs:
 
 # License
 
-The package may only be used for open processing. You agree to publicly share the intended application, obtained insights, and applied calculation methods under the same license.
+The code developed for the Energietransitie Dataset may only be used for open processing. You agree to publicly share the intended application, obtained insights, and applied calculation methods under the same license.
 
 # Citation
 
-If you use this package or any code in this package or refer to output, please use the following citations for attribution:
+If you use any code in this repository or refer to output, please use the following citations for attribution:
 
 _Witkamp, Dickinson, Izeboud (2025). Energietransitie Dataset (ETD): mapping, transforming and analyzing monitoring data for energy in the built environment._
 
