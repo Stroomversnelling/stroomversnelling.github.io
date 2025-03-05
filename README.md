@@ -7,10 +7,10 @@ To be able to fully use the tools developed for the ETD, one needs:
 | **Step** | **Content**               | **Github Repository**   | **Documentation**                                           |
 | -------- | ----------------------- | ----------------------- | ----------------------------------------------------------- |
 | 1        | Raw monitoring data     | Not public              | Please supply your own dataset                              |
-| 2        | Workflow                | <a href="https://github.com/Stroomversnelling/etddemo">ETD Demo</a> (1) | <a href="https://stroomversnelling.github.io/etddemo/index.html">Documentation</a> (1) |
-| 3        | Mapping data to model   | <a href="https://github.com/Stroomversnelling/etdmap">ETD Map</a>   | <a href="https://stroomversnelling.github.io/etdmap/index.html">Documentation</a> |
-| 4        | Improving data quality  | <a href="https://github.com/Stroomversnelling/etdtransform">ETD Transform</a>   | <a href="https://stroomversnelling.github.io/etdtransform/index.html">Documentation</a> |
-| 5        | Analyzing data          | <a href="https://github.com/Stroomversnelling/etdanalyze">ETD Analyze</a> (1) | <a href="https://stroomversnelling.github.io/etdanalyze/index.html">Documentation</a> (1) |
+| 2        | Workflow                | <a href="https://github.com/Stroomversnelling/etddemo">ETD Demo</a> (1) | <a href="https://stroomversnelling.github.io/etddemo/index.html">ETD Demo Documentation</a> (1) |
+| 3        | Mapping data to model   | <a href="https://github.com/Stroomversnelling/etdmap">ETD Map</a>   | <a href="https://stroomversnelling.github.io/etdmap/index.html">ETD Map Documentation</a> |
+| 4        | Improving data quality  | <a href="https://github.com/Stroomversnelling/etdtransform">ETD Transform</a>   | <a href="https://stroomversnelling.github.io/etdtransform/index.html">ETD Transform Documentation</a> |
+| 5        | Analyzing data          | <a href="https://github.com/Stroomversnelling/etdanalyze">ETD Analyze</a> (1) | <a href="https://stroomversnelling.github.io/etdanalyze/index.html">ETD Analyze Documentation</a> (1) |
 
 (1) not public yet
 
