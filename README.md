@@ -4,13 +4,13 @@ The 'Energietransitie Dataset' or ETD is a model defining important variables fo
 # How to use
 To be able to fully use the tools developed for the ETD, one needs:
 
-| **Steps**               | **Github Repository**   | **Documentation**                                           |
-| ----------------------- | ----------------------- | ----------------------------------------------------------- |
-| Raw monitoring data     | Not public              | Please supply your own dataset                              |
-| Workflow                | <a href="https://github.com/Stroomversnelling/etddemo">ETD Demo</a> (1) | <a href="https://stroomversnelling.github.io/etddemo/index.html">Documentation</a> (1) |
-| Mapping data to model   | <a href="https://github.com/Stroomversnelling/etdmap">ETD Map</a>   | <a href="https://stroomversnelling.github.io/etdmap/index.html">Documentation</a> |
-| Improving data quality  | <a href="https://github.com/Stroomversnelling/etdtransform">ETD Transform</a>   | <a href="https://stroomversnelling.github.io/etdtransform/index.html">Documentation</a> |
-| Analyzing data          | <a href="https://github.com/Stroomversnelling/etdanalyze">ETD Analyze</a> (1) | <a href="https://stroomversnelling.github.io/etdanalyze/index.html">Documentation</a> (1) |
+| **Step** | **Content**               | **Github Repository**   | **Documentation**                                           |
+| -------- | ----------------------- | ----------------------- | ----------------------------------------------------------- |
+| 1        | Raw monitoring data     | Not public              | Please supply your own dataset                              |
+| 2        | Workflow                | <a href="https://github.com/Stroomversnelling/etddemo">ETD Demo</a> (1) | <a href="https://stroomversnelling.github.io/etddemo/index.html">Documentation</a> (1) |
+| 3        | Mapping data to model   | <a href="https://github.com/Stroomversnelling/etdmap">ETD Map</a>   | <a href="https://stroomversnelling.github.io/etdmap/index.html">Documentation</a> |
+| 4        | Improving data quality  | <a href="https://github.com/Stroomversnelling/etdtransform">ETD Transform</a>   | <a href="https://stroomversnelling.github.io/etdtransform/index.html">Documentation</a> |
+| 5        | Analyzing data          | <a href="https://github.com/Stroomversnelling/etdanalyze">ETD Analyze</a> (1) | <a href="https://stroomversnelling.github.io/etdanalyze/index.html">Documentation</a> (1) |
 
 (1) not public yet
 
