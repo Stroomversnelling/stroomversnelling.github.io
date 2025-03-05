@@ -1,5 +1,5 @@
 # About
-The 'Energietransitie Dataset' or ETD is a model defining, mapping, cleaning up and analyzing important variables for energy in the built environment, which are used to inform policy and planning decisions in the Netherlands. It was developed by <a href="https://stroomversnelling.nl">Stroomversnelling</a> using monitoring data supplied by <a href="https://watch-e.nl">Watch-e</a>. 
+The 'Energietransitie Dataset' or ETD is a model defining, mapping, cleaning up and analyzing important variables for energy in the built environment, which are used to inform policy and planning decisions in the Netherlands. It was developed by <a href="https://stroomversnelling.nl">Stroomversnelling</a> (also known as BSV) using monitoring data supplied by <a href="https://watch-e.nl">Watch-e</a>. 
 
 # How to use
 To be able to fully use the tools developed for the ETD, one needs:
