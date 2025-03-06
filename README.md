@@ -10,9 +10,9 @@ To be able to fully use the tools developed for the ETD, one needs:
 | 2        | Demo Workflow           | <a href="https://github.com/Stroomversnelling/etddemo">ETD Demo</a> | _See links below the table_ |
 | 3        | Mapping data to model   | <a href="https://github.com/Stroomversnelling/etdmap">ETD Map</a>   | <a href="https://stroomversnelling.github.io/etdmap/index.html">ETD Map Documentation</a> |
 | 4        | Improving data quality  | <a href="https://github.com/Stroomversnelling/etdtransform">ETD Transform</a>   | <a href="https://stroomversnelling.github.io/etdtransform/index.html">ETD Transform Documentation</a> |
-| 5        | Analyzing data          | <a href="https://github.com/Stroomversnelling/etdanalyze">ETD Analyze</a> (1) | ETD Analyze Documentation (1) |
+| 5        | Analyzing data          | <a href="https://github.com/Stroomversnelling/etdanalyze">ETD Analyze</a> | ETD Analyze Documentation (1) |
 
-(1) not public yet
+(1) very incomplete
 
 ## Demonstration workflows
 
