@@ -7,14 +7,15 @@ To be able to fully use the tools developed for the ETD, one needs:
 | **Step** | **Content**               | **Github Repository**   | **Documentation**                                           |
 | -------- | ----------------------- | ----------------------- | ----------------------------------------------------------- |
 | 1        | Raw monitoring data     | Not public              | Please supply your own dataset                              |
-| 2        | Demo Workflow           | <a href="https://github.com/Stroomversnelling/etddemo">ETD Demo</a> | __See links below the table__ |
+| 2        | Demo Workflow           | <a href="https://github.com/Stroomversnelling/etddemo">ETD Demo</a> | _See links below the table_ |
 | 3        | Mapping data to model   | <a href="https://github.com/Stroomversnelling/etdmap">ETD Map</a>   | <a href="https://stroomversnelling.github.io/etdmap/index.html">ETD Map Documentation</a> |
 | 4        | Improving data quality  | <a href="https://github.com/Stroomversnelling/etdtransform">ETD Transform</a>   | <a href="https://stroomversnelling.github.io/etdtransform/index.html">ETD Transform Documentation</a> |
 | 5        | Analyzing data          | <a href="https://github.com/Stroomversnelling/etdanalyze">ETD Analyze</a> (1) | ETD Analyze Documentation (1) |
 
 (1) not public yet
 
-Demos:
+## Demonstration workflows
+
 - [Mapping](https://stroomversnelling.github.io/mapping-example.html)
 - [Transformation: Resampling and Aggregation](https://stroomversnelling.github.io/aggregation-imputation-example.html)
 - [Analysis](https://stroomversnelling.github.io/analysis-example.html)
