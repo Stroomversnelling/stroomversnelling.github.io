@@ -23,8 +23,8 @@ To be able to fully use the tools developed for the ETD, one needs:
 # Results
 
 The codebase detailed on this page has been used to generate a number of results. Amongst these are:
-- <a href="https://www.youtube.com/watch?v=Y2UQ_hPRe8I&list=FLoga9hb7-hFq3bQN40Te94Q">Webinar about the impact of homes with heat pumps on the electricity grid (net congestion)</a>
-- <a href="https://wattopia.nl/download/ETD_Presentatie_2024-11-26.pdf">The powerpoint sheets used during that webinar</a>
+- <a href="https://www.youtube.com/watch?v=Y2UQ_hPRe8I&list=FLoga9hb7-hFq3bQN40Te94Q">Webinar about the impact of homes with heat pumps on the electricity grid (net congestion)</a> (nov 2024)
+- <a href="https://wattopia.nl/download/ETD_Presentatie_2024-11-26.pdf">The powerpoint sheets used during that webinar</a> (nov 2024)
 
 # License
 
